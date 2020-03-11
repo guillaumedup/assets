@@ -1,4 +1,4 @@
-# Assets
+# Asset
 ### An assets structuration kit for modern developpement
 ##### made for working with [WPGulp link](https://github.com/ahmadawais/WPGulp/)
 
