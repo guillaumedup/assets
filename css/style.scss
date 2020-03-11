@@ -1,0 +1,53 @@
+/* settings */
+/** --------------------------- **/
+@import "_base/inuit_settings"; // inuitcss files
+
+@import "custom/settings/vars"; // custom
+@import "custom/settings/mixins"; // custom
+
+
+/* tools */
+/** --------------------------- **/
+@import "_base/inuit_tools"; // inuitcss files
+
+@import "custom/tools/sample_tool"; // custom
+
+
+/*  generic */
+/** --------------------------- **/
+@import "_base/inuit_generic"; // inuitcss files
+
+@import "custom/generic/sample_generic"; // custom
+
+
+/*  elements */
+/** --------------------------- **/
+@import "_base/inuit_elements"; // inuitcss files
+
+@import "custom/elements/sample_element"; // custom
+
+
+/*  objets */
+/** --------------------------- **/
+// @import "_base/inuit_objects"; // inuitcss files
+
+@import "vendor/purecss/base"; // purecss
+@import "vendor/purecss/grids"; // purecss
+@import "vendor/purecss/grids-responsive"; // purecss
+@import "vendor/purecss/grids-responsive-old-ie"; // purecss
+
+@import "custom/objects/sample_object"; // custom
+
+
+/*  components */
+/** --------------------------- **/
+// @import "_base/inuit_components"; // inuitcss files
+
+@import "custom/components/sample_component"; // custom
+
+
+/*  utilities */
+/** --------------------------- **/
+// @import "_base/inuit_utilities"; // inuitcss files
+
+@import "custom/utilities/sample_utility"; // custom
