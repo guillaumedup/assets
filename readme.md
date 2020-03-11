@@ -1,6 +1,6 @@
 # Assets
 ### An assets structuration kit for modern developpement
-##### made for working with [WPGulp] (https://github.com/ahmadawais/WPGulp/)
+##### made for working with [WPGulp](https://github.com/ahmadawais/WPGulp/)
 
 #### Based on
 - IT CSS Architecture : https://kevinbizien.com/design-system/css-architecture/ (fr)
